@@ -158,6 +158,7 @@ return {
   surface = { "elixirls" },
   svelte = { "emmet_language_server", "emmet_ls", "eslint", "svelte", "tailwindcss", "unocss" },
   svg = { "lemminx" },
+  swift = { "sourcekit" },
   systemverilog = { "svlangserver", "svls", "verible" },
   teal = { "teal_ls" },
   terraform = { "terraformls", "tflint" },

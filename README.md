@@ -301,6 +301,7 @@ local DEFAULT_SETTINGS = {
 | Sphinx                              | `esbonio`                         |
 | Stylelint                           | `stylelint_lsp`                   |
 | Svelte                              | `svelte`                          |
+| Swift                               | `sourcekit`                       |
 | SystemVerilog                       | `svlangserver`                    |
 | SystemVerilog                       | `svls`                            |
 | SystemVerilog                       | `verible`                         |
